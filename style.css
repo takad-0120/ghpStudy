@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+body {
+  background-color: rgb(94, 103, 103);
+}
+
+h1 {
+  text-align: center;
+  color: aliceblue;
+}
